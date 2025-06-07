@@ -1,6 +1,6 @@
 # Project-1-Elektronica
 
-This is the code used to instruct our ESP32 Microcontroller for our 5x5x5 Led Cube
+This is the repo with the code used to instruct the ESP32 Microcontroller for the 5x5x5 Led Cube
 
 ## Fusion 360
 <img src="images/fusion1.png" style="width:30%"/> <img src="images/fusion2.png" style="width:30%"/>
