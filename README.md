@@ -12,14 +12,8 @@ This is the code used to instruct our ESP32 Microcontroller for our 5x5x5 Led Cu
 
 ## Demo
 
-<video width="30%" controls>
-  <source src="videos/1row.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/4d9be6ad-d1cb-4958-b4f8-17170f82d2f1
 
-<video width="30%" controls>
-  <source src="videos/5x5window.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/1e31544b-8b94-4a65-a228-dfec8614f6d1
 
-<video width="30%" controls>
-  <source src="videos/cube.mov" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/6a435f8f-5a1e-4103-8598-762c952bb20d
