@@ -1,4 +1,4 @@
-# Project-1-Elektronica
+# Project: Programmable 5x5x5 - 3D LED Cube
 
 This is the repo contains the code used to instruct the ESP32 Microcontroller for the programmable 5x5x5 Led Cube.
 
